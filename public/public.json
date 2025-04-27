@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Professional DSLR Camera",
+      "description": "Capture stunning photos with this high-end DSLR camera perfect for photography enthusiasts.",
+      "currentBidPrice": 15000,
+      "timeLeft": "2h 15m",
+      "bidsCount": 12,
+      "image": "https://i.imgur.com/qfKWOnB.png"
+    },
+    {
+      "id": 2,
+      "title": "Electric Guitar",
+      "description": "A sleek electric guitar with amazing tone and feel, ideal for both beginners and pros.",
+      "currentBidPrice": 3200,
+      "timeLeft": "1d 4h",
+      "bidsCount": 8,
+      "image": "https://i.imgur.com/4eIlOJe.png"
+    },
+    {
+      "id": 3,
+      "title": "High-End Gaming Laptop",
+      "description": "Experience top-tier performance with this powerful gaming laptop featuring an RTX GPU.",
+      "currentBidPrice": 250,
+      "timeLeft": "5h 22m",
+      "bidsCount": 21,
+      "image": "https://i.imgur.com/uPOuWI2.png"
+    },
+    {
+      "id": 4,
+      "title": "Luxury Wrist Watch",
+      "description": "A sleek and modern wrist watch with precision movement and timeless design.",
+      "currentBidPrice": 980,
+      "timeLeft": "3h 10m",
+      "bidsCount": 14,
+      "image":"https://i.imgur.com/OmTDtqp.png"
+    },
+    {
+      "id": 5,
+      "title": "Ergonomic Office Chair",
+      "description": "Stay comfortable and supported all day long with this ergonomic office chair.",
+      "currentBidPrice": 1250,
+      "timeLeft": "4d 0h",
+      "bidsCount": 34,
+      "image":"https://i.imgur.com/3ZWqcJv.png"
+    },
+    {
+      "id": 6,
+      "title": "Handcrafted Leather Diary",
+      "description": "A beautifully made leather-bound diary, perfect for journaling or note-taking.",
+      "currentBidPrice": 110,
+      "timeLeft": "7h 45m",
+      "bidsCount": 5,
+      "image": "https://i.imgur.com/3boahvC.png"
+    },
+    {
+      "id": 7,
+      "title": "Decorative Flower Vase",
+      "description": "An elegant ceramic flower vase ideal for enhancing your interior decor.",
+      "currentBidPrice": 420,
+      "timeLeft": "2d 6h",
+      "bidsCount": 18,
+      "image": "https://i.imgur.com/VIQS92H.png"
+    }
+  ]
+  
